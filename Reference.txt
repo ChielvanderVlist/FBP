@@ -1,0 +1,9 @@
+Recipe on the Go is a recipe recommender system by Chiel van der Vlist - 2018.
+
+This project has made use of the two following projects to create Recipe on the Go:
+
+RecipeFinder:
+https://github.com/draxvel/RecipeFinder
+
+NFC:
+http://www.codexpedia.com/android/android-nfc-read-and-write-example/
